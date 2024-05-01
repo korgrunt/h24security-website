@@ -94,7 +94,7 @@ export default function RootLayout({ children }) {
           <div className="hero-content">
             <h1 className="h1 hero-title">
               Protection, surveilance et securisation de votre système
-              d'information.
+              d&apos;information.
             </h1>
             <form action="" className="hero-form">
               <input
@@ -157,11 +157,11 @@ export default function RootLayout({ children }) {
                   <ion-icon name="bar-chart-outline" />
                 </div>
                 <h3 className="h4 card-title">
-                  Audit de securité et Test d'intrusion
+                  Audit de securité et Test d&apos;intrusion
                 </h3>
                 <p className="card-text">
                   Identifiez les vulnérabilités de votre infrastructure grâce à
-                  nos tests d'intrusion complets, personnalisés à votre
+                  nos tests d&apos;intrusion complets, personnalisés à votre
                   environnement.
                 </p>
               </div>
@@ -241,12 +241,12 @@ export default function RootLayout({ children }) {
                 conseils simples ou un appui opérationnel visant à rétablir
                 rapidement vos conditions opérationnelles et vous permettre de
                 continuer vos activités commerciales. Notre expérience sera
-                d'une grande utilité pour remonter votre infrastructure
+                d&apos;une grande utilité pour remonter votre infrastructure
                 informatique et prendre les mesures nécessaires pour sa
                 protection.
               </p>
               <h3 className="h4 about-bottom-title">
-                Assistance d'Experts pour la Continuité d'Activité{" "}
+                Assistance d&apos;Experts pour la Continuité d&apos;Activité{" "}
               </h3>
               <ul className="about-bottom-list">
                 <li className="about-bottom-item">
@@ -260,7 +260,7 @@ export default function RootLayout({ children }) {
                 <li className="about-bottom-item">
                   <p className="section-text">
                     Notre expertise vous permettra de remonter votre système
-                    d'information et de mettre en place les mesures nécessaires
+                    d&apos;information et de mettre en place les mesures nécessaires
                     pour le protéger.
                   </p>
                 </li>
@@ -336,7 +336,7 @@ export default function RootLayout({ children }) {
                   <h3 className="h4 card-title">Vuln Scanner</h3>
                   <p className="section-text">
                     Identifiez les failles de sécurité de votre infrastructure
-                    grâce à notre outil d'analyse automatique des
+                    grâce à notre outil d&apos;analyse automatique des
                     vulnérabilités. Nous vous aidons à renforcer votre système
                     contre les cybermenaces.
                   </p>
@@ -370,7 +370,7 @@ export default function RootLayout({ children }) {
                   <p className="section-text">
                     Protégez votre entreprise des intrusions en ligne grâce à
                     notre service de pare-feu et de WAF. Nous bloquons les
-                    tentatives d'accès non autorisées à vos systèmes, assurant
+                    tentatives d&apos;accès non autorisées à vos systèmes, assurant
                     ainsi la sécurité de vos données sensibles.
                   </p>
                 </div>
@@ -422,7 +422,7 @@ export default function RootLayout({ children }) {
                   de bord pour vous donner un aperçu de la manière dont vous
                   utiliserez notre service. De plus, la démo reste accessible
                   pendant une période qui vous convient, vous laissant ainsi le
-                  temps de réfléchir à vos besoins avant d'intégrer notre
+                  temps de réfléchir à vos besoins avant d&apos;intégrer notre
                   solution.
                 </p>
               </li>
@@ -435,7 +435,7 @@ export default function RootLayout({ children }) {
                   offrir la meilleure intégration à vos systèmes avec nos outils
                   de surveillance. Une fois que nous avons une vue à 360 degrés
                   de votre organisation, nous vous proposons les meilleurs plans
-                  d'intégration selon vos besoins. La reconnaissance de votre
+                  d&apos;intégration selon vos besoins. La reconnaissance de votre
                   périmètre est gratuite et vous êtes libre de résilier votre
                   abonnement à tout moment.
                 </p>
@@ -455,12 +455,12 @@ export default function RootLayout({ children }) {
             <ul className="faq-list">
               <li>
                 <h3 className="h4 card-title">
-                  Quelles sont vos modalités d'abonnement et de paiement?
+                  Quelles sont vos modalités d&apos;abonnement et de paiement?
                 </h3>
                 <p className="section-text">
-                  Nous comprenons que nos clients ont d'autres priorités que la
+                  Nous comprenons que nos clients ont d&apos;autres priorités que la
                   sécurité. Nous proposons un étalement des paiements sur
-                  l'année, des abonnements aux produits et services permettant
+                  l&apos;année, des abonnements aux produits et services permettant
                   de réduire les coûts, et des délais de paiement pour vous
                   laisser vous concentrer sur votre valeur ajoutée.
                 </p>
@@ -471,18 +471,18 @@ export default function RootLayout({ children }) {
                 </h3>
                 <p className="section-text">
                   Les sauvegardes et données de votre SI sont chiffrées avant
-                  d'être stockées sur nos infrastructures. Nos communications
+                  d&apos;être stockées sur nos infrastructures. Nos communications
                   sont chiffrées de bout en bout pour garantir une
                   confidentialité totale.
                 </p>
               </li>
               <li>
                 <h3 className="h4 card-title">
-                  J'ai un problème avec l'un de vos produits.
+                  J&apos;ai un problème avec l&apos;un de vos produits.
                 </h3>
                 <p className="section-text">
                   Notre tableau de bord personnalisé pour chaque client vous
-                  permet de surveiller l'état des services et produits que nous
+                  permet de surveiller l&apos;état des services et produits que nous
                   mettons à votre disposition. Un lien direct avec un assistant
                   vous assure un contact humain dans les 15 minutes suivant
                   votre demande.
@@ -504,12 +504,12 @@ export default function RootLayout({ children }) {
           <div className="cta-card">
             <h2 className="cta-title">
               Une urgence? H24security est la pour vous conseiller via ce
-              service gratuit d'assistance téléphonique
+              service gratuit d&apos;assistance téléphonique
             </h2>
             <div className="cta-button-wrapper">
               <button className="btn btn-primary">Contactez nous</button>
               <a href="#faq">
-                ou laisser votre contact, nous vous rappelons dans l'heure.
+                ou laisser votre contact, nous vous rappelons dans l&apos;heure.
               </a>
             </div>
           </div>
@@ -544,12 +544,12 @@ export default function RootLayout({ children }) {
           <br />
           <br />
           <p>
-            En m'abonnant, j’accepte que mon adresse mail soit utilisée pour
-            permettre de m’envoyer la newsletter.*
+            En m&apos;abonnant, j&apos;accepte que mon adresse mail soit utilisée pour
+            permettre de m&apos;envoyer la newsletter.*
           </p>
           <br />
           <br />
-          <button className="btn btn-primary">S'abonner</button>
+          <button className="btn btn-primary">S&apos;abonner</button>
           <p />
         </div>
         <div className="footer-link-box">
